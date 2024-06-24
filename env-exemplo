@@ -1,0 +1,2 @@
+DATABASE_URL="file:./db/ingressos.db"
+PORT=5000
